@@ -1,1 +1,1 @@
-# .github
+# ignitR README draft

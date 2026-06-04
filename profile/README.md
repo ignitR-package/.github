@@ -29,8 +29,7 @@ This size places the data out of practical reach for many of its intended users.
 | Kaiju Morquecho | Student — MEDS 2026 |
 
 **Client:** Dr. Caitlin Fong, National Center for Ecological Analysis and Synthesis (NCEAS)  
-**Faculty Advisors:** Dr. Max Czapanskiy, Bren School of Environmental Science and Management
-
+**Faculty Advisors:** Dr. Max Czapanskiy, Bren School of Environmental Science and Management                         
 **Capstone Instructor:** Dr. Carmen Galaz-García, Bren School of Environmental Science and Management
 
 ## Acknowledgements
